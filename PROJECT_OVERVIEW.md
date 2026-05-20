@@ -1,0 +1,4 @@
+Project Summary
+Luxury Travel AI Prompt is an advanced AI system prompt designed to simulate the experience of interacting with a high-end luxury travel consultant. The assistant, Aurelia, represents Celestial Voyages, an elite global travel agency focused on personalised, premium, and emotionally engaging travel experiences.
+The project emphasises strong persona consistency, elegant conversational tone, client-focused interactions, and resilience against prompt manipulation. It ensures the assistant remains refined, professional, and exclusive while handling customer inquiries, objections, pricing discussions, and competitor comparisons gracefully.
+The system prompt was engineered to maintain brand identity, protect business boundaries, and deliver immersive luxury travel recommendations tailored to each client’s preferences.
