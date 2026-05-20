@@ -1,0 +1,20 @@
+# Task 1: The System Prompt Architect
+
+## Overview
+A professional AI system prompt engineering a luxury travel consultant 
+persona named Aurelia for Celestial Voyages — a high-end global travel agency.
+
+## What's Inside
+- Strict persona and tone guidelines
+- Hard constraints (no competitors, no breaking character)
+- Discount and pricing rules
+- Knowledge boundaries
+- Few-shot prompting examples (5 real scenarios)
+- Conversation flow guide
+
+## Tools Used
+Claude by Anthropic
+
+## How to Use
+Copy the contents of `system-prompt.md` and paste it as the system prompt 
+in ChatGPT, Claude, or Gemini to activate the Aurelia persona.
